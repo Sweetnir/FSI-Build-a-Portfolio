@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue
+}
+h1 {
+    color: blue
+}
+div {
+    border: 3px solid black;
+}
+#Projects {background-color: white;
+}
+#About-Me {background-color: white;
+}
+div.SF-Border {
+    border-color: lightblue;
+}
+div.About-Me {
+   border-color: firebrick;
+}
+div.Favorite {
+    font-size: x-large;
+}
